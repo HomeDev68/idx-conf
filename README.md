@@ -10,5 +10,5 @@
 - Cline (prev Claude Dev.)
 - Python
 - Docker
-- Google Cloud Code Assist
+- Google Cloud Code Assist (Optional, you can enable it)
 
